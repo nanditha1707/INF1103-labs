@@ -12,5 +12,11 @@ while True:
     if stock == "quit":
        break
 
-#Activity 3 
+    #Activity 4
+    if not stock.isdigit():
+        print("Invalid input")
+        failed += 1
+        continue
+
+    #Activity 3 
     stock = int(stock)
