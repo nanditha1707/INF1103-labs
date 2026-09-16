@@ -10,7 +10,11 @@ failed = 0
 while True:
     stock = input("Enter stock quantity or type quit: ")
     if stock == "quit":
-       break
+
+        #Activity 8
+        print("Total Units Processed:", inventory)
+        print("Failed/Rejected Entries:", failed)
+        break
 
     #Activity 4
     if not stock.isdigit():
