@@ -11,3 +11,6 @@ while True:
     stock = input("Enter stock quantity or type quit: ")
     if stock == "quit":
        break
+
+#Activity 3 
+    stock = int(stock)
