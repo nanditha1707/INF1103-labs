@@ -21,8 +21,12 @@ while True:
     #Activity 3 
     stock = int(stock)
 
-        #Activity 5
+    #Activity 5
     if stock < 0:
         print("Negative numbers are not allowed")
         failed += 1
         continue
+
+    #Activity 6
+    inventory += stock
+    print("Current Inventory:", inventory)
