@@ -1,0 +1,29 @@
+commit 0b7832f323431fb72000cf8e6ee47b0a78a3ebcb
+Author: nanditha <2605399@sit.singaporetech.edu.sg>
+Date:   Fri Sep 4 15:31:11 2026 +0800
+
+    Fun Conditions
+
+commit 4cd34eabbdcb2bd809845c08e013458230757f05
+Author: nanditha <2605399@sit.singaporetech.edu.sg>
+Date:   Fri Sep 4 15:29:56 2026 +0800
+
+    Dynamic Profile
+
+commit 82ba0544be82676cc680ac30b5a92d359bc5c392
+Author: nanditha <2605399@sit.singaporetech.edu.sg>
+Date:   Fri Sep 4 15:28:36 2026 +0800
+
+    Assignment Variables
+
+commit e88339cea67313e9988b4d5a59740fac1fe13a93
+Author: nanditha <2605399@sit.singaporetech.edu.sg>
+Date:   Fri Sep 4 14:59:56 2026 +0800
+
+    Added Profile Variables
+
+commit ee82f3eaf3d331214f55d13efffd469589e4e2a1
+Author: nanditha <2605399@sit.singaporetech.edu.sg>
+Date:   Fri Sep 4 14:47:34 2026 +0800
+
+    First post
