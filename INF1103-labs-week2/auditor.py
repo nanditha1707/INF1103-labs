@@ -30,3 +30,8 @@ while True:
     #Activity 6
     inventory += stock
     print("Current Inventory:", inventory)
+
+    #Activity 7
+    if inventory > 500:
+        print("OVERSTOCK ALERT!")
+        break
