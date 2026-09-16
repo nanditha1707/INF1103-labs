@@ -5,3 +5,9 @@ print("===================================")
 
 inventory = 0
 failed = 0
+
+#Activity 2
+while True:
+    stock = input("Enter stock quantity or type quit: ")
+    if stock == "quit":
+       break
