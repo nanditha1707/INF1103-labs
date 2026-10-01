@@ -65,6 +65,12 @@ def load_inventory():
 
         file.close()
 
+
+        # File exists but is empty
+        if len(lines) == 0:
+            return 0, []
+
+
         inventory = int(
             lines[0].strip()
         )
@@ -93,7 +99,6 @@ def load_inventory():
     except FileNotFoundError:
 
         return 0, []
-
 
 # Activity 6
 def save_inventory(
